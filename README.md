@@ -1,6 +1,6 @@
 # 🛒 Full Stack E-Commerce Platform
 
-This repository contains a fully-featured **e-commerce application** developed using:
+This project contains a fully-featured **e-commerce application** developed using:
 
 - **Backend**: Java + Spring Boot (microservices architecture)
 - **Frontend**: Angular
@@ -8,6 +8,18 @@ This repository contains a fully-featured **e-commerce application** developed u
 - **Caching**: Redis for performance optimization
 
 ---
+
+## 🧩 Microservices Architecture
+
+This project follows a **microservices-based architecture**, where each core functionality (such as User, Product, Order, Payment, etc.) is developed and maintained as a separate, independent service.
+
+> 🔗 **All related services and components are available in separate repositories within this GitHub account.**
+
+Each microservice is designed to be:
+- Independently deployable
+- Scalable
+- Easily testable and maintainable
+----- 
 
 ## 📦 Features and Services Included
 
